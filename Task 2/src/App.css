@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans JP", sans-serif;
+  background-image: url('./photos/1.jpg');
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  color: white;
+  background: rgb(245, 241, 242);
+
+}
+
+.table-header {
+  font-weight: 500;
+}
